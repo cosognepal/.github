@@ -1,5 +1,5 @@
-# COSOGNepal
-**CoSoG Nepal,** a "non-profit community" aims to drive positive community change by promoting Computer Science education and Computer science Club Cullture among high school students, especially in grades 9 and 10.
+# CoSoGNepal
+CoSoG (Coding for Social Good) Nepal is a non-profit organization working to promote Computer Science Education and Initiate CS Clubs in Sec/High Schools in Nepal and facilitating charitable coding initiatives to aid in Nepal's digitalization.
 
 We believe technology holds great potential for good. By equipping young minds with Computer Science tools, we empower them to shape a brighter future.
 
